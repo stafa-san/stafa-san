@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stafa-san
 - 👀 I’m interested in (.)(.)
-- 🌱 I’m currently learning Javascript and move to react eventually
+- 🌱 I’m currently learning Javascript and I will move to react eventually
 - 💞️ I’m looking to collaborate on not so fancy projects, just something to enhance my skills.
 - 📫 How to reach me IG & Clubhouse: @stafa_san | LinkedIn: https://www.linkedin.com/in/mustapha-zakari-b35924b7/
 
